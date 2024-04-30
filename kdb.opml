@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>kdb blogs</title>
+    </head>
+    <body>
+        <outline text="kdb" title="kdb">
+            <outline type="rss" text="Q-uirky code" title="Q-uirky code" xmlUrl="http://terrylynch.blogspot.com/feeds/posts/default" htmlUrl="http://terrylynch.blogspot.com/"/>
+            <outline type="rss" text="Tutorials for learning q/kdb+" title="Tutorials for learning q/kdb+" xmlUrl="http://qkdb.wordpress.com/feed/" htmlUrl="https://qkdb.wordpress.com"/>
+            <outline type="rss" text="q-rious kdb" title="q-rious kdb" xmlUrl="https://qriouskdb.wordpress.com/feed/" htmlUrl="https://qriouskdb.wordpress.com"/>
+            <outline type="rss" text="q-ist" title="q-ist" xmlUrl="http://www.q-ist.com/feeds/posts/default" htmlUrl="http://www.q-ist.com/"/>
+            <outline type="rss" text="TimeStored Blog" title="TimeStored Blog" xmlUrl="http://www.timestored.com/b/feed/" htmlUrl="https://www.timestored.com/b"/>
+            <outline type="rss" text="Symbolic Fun" title="Symbolic Fun" xmlUrl="https://symfun.wordpress.com/feed/" htmlUrl="https://symfun.wordpress.com"/>
+            <outline type="rss" text="The Research Kitchen » kdb Category Feed" title="The Research Kitchen » kdb Category Feed" xmlUrl="http://www.theresearchkitchen.com/archives/category/kdb/feed" htmlUrl="https://www.theresearchkitchen.com"/>
+            <outline type="rss" text="Blog – Kx" title="Blog – Kx" xmlUrl="https://kx.com/blog/feed/" htmlUrl="https://kx.com"/>
+            <outline type="rss" text="kx_community" title="kx_community" xmlUrl="https://www.reddit.com/r/kx_community/.rss" htmlUrl="https://www.reddit.com/r/kx_community/"/>
+            <outline type="rss" text="q blogs" title="q blogs" xmlUrl="http://kxcommunity.com/feed/" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=f8056bc9b49a267fafe24a41394c60e7"/>
+            <outline type="rss" text="Newest questions tagged q-lang - Stack Overflow" title="Newest questions tagged q-lang - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=q-lang&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=q-lang&amp;sort=newest"/>
+            <outline type="rss" text="reddit-apkjl" title="reddit-apkjl" xmlUrl="http://www.reddit.com/search.xml?q=apljk&amp;sort=new" htmlUrl="http://www.reddit.com/"/>
+            <outline type="rss" text="James Little" title="James Little" xmlUrl="http://www.jameslittle.me.uk/feeds/all.atom.xml" htmlUrl="https://www.jameslittle.me.uk/"/>
+            <outline type="rss" text="DefconQ Blog" title="DefconQ Blog" xmlUrl="https://defconq.tech/blog/rss.xml" htmlUrl="https://DefconQ.github.io/blog"/>
+            <outline type="rss" text="reddit.com: search results" title="reddit.com: search results" xmlUrl="http://www.reddit.com/search.xml?q=kdb%2B&amp;sort=new" htmlUrl="http://www.reddit.com/"/>
+            <outline type="rss" text="All board posts in KX Community" title="All board posts in KX Community" xmlUrl="https://community.kx.com/btwke96422/rss/Community?interaction.style=forum&amp;feeds.replies=true" htmlUrl="https://community.kx.com/"/>
+            <outline type="rss" text="Posts of blog" title="Posts of blog" xmlUrl="https://sites.google.com/site/baavector/blog/posts.xml" htmlUrl="https://sites.google.com/feeds/content/site/baavector"/>
+            <outline type="rss" text="enlist[q]" title="enlist[q]" xmlUrl="http://www.enlistq.com/feed/" htmlUrl="http://www.enlistq.com/"/>
+            <outline type="rss" text="Vimeo / KX’s videos" title="Vimeo / KX’s videos" xmlUrl="https://vimeo.com/kxsys/videos/rss" htmlUrl="https://vimeo.com/kxsys/videos"/>
+            <outline type="rss" text="AquaQ kdb+/TorQ" title="AquaQ kdb+/TorQ" xmlUrl="https://groups.google.com/forum/feed/kdbtorq/topics/rss.xml?num=50" htmlUrl="https://groups.google.com/d/forum/kdbtorq"/>
+            <outline type="rss" text="The Thalesians" title="The Thalesians" xmlUrl="http://thalesians.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://thalesians.blogspot.com/"/>
+            <outline type="rss" text="James Neill's kdb+ Feed" title="James Neill's kdb+ Feed" xmlUrl="http://jpneill.github.io/pages/feed.xml" htmlUrl="http://jpneill.github.io/kdb_blog.html"/>
+            <outline type="rss" text="Newest questions tagged kdb - Stack Overflow" title="Newest questions tagged kdb - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=kdb&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=kdb&amp;sort=newest"/>
+            <outline type="rss" text="Ferenc Bodon, Ph.D." title="Ferenc Bodon, Ph.D." xmlUrl="https://bodonferenc.github.io/feed.xml" htmlUrl="https://bodonferenc.github.io/BodonFerenc.github.io/"/>
+            <outline type="rss" text="Jonathon McMurray" title="Jonathon McMurray" xmlUrl="http://jmcmurray.co.uk/feed.xml" htmlUrl="https://jmcmurray.co.uk/"/>
+            <outline type="rss" text="My experiments while learning q KDB +" title="My experiments while learning q KDB +" xmlUrl="http://eternallearningq.wordpress.com/feed/" htmlUrl="https://eternallearningq.wordpress.com"/>
+            <outline type="rss" text="thesweeheng’s weblog" title="thesweeheng’s weblog" xmlUrl="http://thesweeheng.wordpress.com/feed/" htmlUrl="https://thesweeheng.wordpress.com"/>
+            <outline type="rss" text="Data Timehouse Central" title="Data Timehouse Central" xmlUrl="https://timehouse.substack.com/feed" htmlUrl="https://timehouse.substack.com"/>
+            <outline type="rss" text="A Programming Language and its descendants" title="A Programming Language and its descendants" xmlUrl="http://www.reddit.com/r/apljk/.rss" htmlUrl="https://www.reddit.com/r/apljk/"/>
+            <outline type="rss" text="KX" title="KX" xmlUrl="https://kx.com/feed/?post_type=blog" htmlUrl="https://kx.com/"/>
+            <outline type="rss" text="Practical Advice on KDB+/Q" title="Practical Advice on KDB+/Q" xmlUrl="http://kdbconsulting.wordpress.com/feed/" htmlUrl="https://kdbconsulting.wordpress.com"/>
+            <outline type="rss" text="Code Blog" title="Code Blog" xmlUrl="http://code.porteo.us/feed/" htmlUrl="http://code.porteo.us"/>
+            <outline type="rss" text="qlearner" title="qlearner" xmlUrl="http://qlearner.wordpress.com/feed/" htmlUrl="https://qlearner.wordpress.com"/>
+            <outline type="rss" text="mlwkdb by ro" title="mlwkdb by ro" xmlUrl="http://mlwkdb.wordpress.com/feed/" htmlUrl="https://mlwkdb.wordpress.com"/>
+            <outline type="rss" text="me, q and kdb+" title="me, q and kdb+" xmlUrl="http://lifeisalist.wordpress.com/feed/" htmlUrl="https://lifeisalist.wordpress.com"/>
+            <outline type="rss" text="abaqus | a blog about q/kdb+" title="abaqus | a blog about q/kdb+" xmlUrl="https://mkst.github.io/feed.xml" htmlUrl="https://mkst.github.io//"/>
+            <outline type="rss" text="Kamil's blog" title="Kamil's blog" xmlUrl="http://kamiljaskiewicz.blogspot.com/feeds/posts/default" htmlUrl="http://kamiljaskiewicz.blogspot.com/"/>
+            <outline type="rss" text="Applied Knowledge" title="Applied Knowledge" xmlUrl="http://astocko.com/rss/" htmlUrl="http://astocko.com/"/>
+            <outline type="rss" text="kdbfaq" title="kdbfaq" xmlUrl="http://www.kdbfaq.com/kdb-faq/rss.xml" htmlUrl="http://www.kdbfaq.com/kdb-faq/"/>
+            <outline type="rss" text="Some Assembly Required*" title="Some Assembly Required*" xmlUrl="http://www.mindfruit.co.uk/feeds/posts/default" htmlUrl="http://www.mindfruit.co.uk/"/>
+            <outline type="rss" text="Newest questions tagged pykx - Stack Overflow" title="Newest questions tagged pykx - Stack Overflow" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=pykx&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=pykx&amp;sort=newest"/>
+            <outline type="rss" text="cillianreilly.com" title="cillianreilly.com" xmlUrl="https://cillianreilly.com/rss.xml" htmlUrl="https://cillianreilly.com"/>
+            <outline type="rss" text="Data Intellect" title="Data Intellect" xmlUrl="http://www.aquaq.co.uk/feed/" htmlUrl="https://dataintellect.com/"/>
+            <outline type="rss" text="Braverock » Feed" title="Braverock » Feed" xmlUrl="http://braverock.net/?feed=rss2" htmlUrl="http://braverock.net"/>
+            <outline type="rss" text="The Research Kitchen" title="The Research Kitchen" xmlUrl="http://www.theresearchkitchen.com/feed" htmlUrl="https://www.theresearchkitchen.com"/>
+            <outline type="rss" text="Beyond Loom Blog" title="Beyond Loom Blog" xmlUrl="http://beyondloom.com/blog/rss.xml" htmlUrl="http://beyondloom.com/blog/index.html"/>
+            <outline type="rss" text="Recursion in q/kdb+ - RSS" title="Recursion in q/kdb+ - RSS" xmlUrl="http://functionalq.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://functionalq.blogspot.com/"/>
+            <outline type="rss" text="Newest questions tagged k - Stack Overflow" title="Newest questions tagged k - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=k&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=k&amp;sort=newest"/>
+            <outline type="rss" text="Kdb+ Personal Developers" title="Kdb+ Personal Developers" xmlUrl="https://groups.google.com/forum/feed/personal-kdbplus/topics/rss.xml?num=50" htmlUrl="https://groups.google.com/d/forum/personal-kdbplus"/>
+            <outline type="rss" text="QUANTLABS.NET » KDB Tag Feed" title="QUANTLABS.NET » KDB Tag Feed" xmlUrl="http://quantlabs.net/blog/tag/kdb/feed/" htmlUrl="https://quantlabs.net/blog/tag/kdb/"/>
+            <outline type="rss" text="Pawan Singh's blog" title="Pawan Singh's blog" xmlUrl="http://singp.wordpress.com/feed/" htmlUrl="https://singp.wordpress.com"/>
+        </outline>
+    </body>
+</opml>
