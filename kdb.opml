@@ -57,6 +57,7 @@
             <outline type="rss" text="Kdb+ Personal Developers" title="Kdb+ Personal Developers" xmlUrl="https://groups.google.com/forum/feed/personal-kdbplus/topics/rss.xml?num=50" htmlUrl="https://groups.google.com/d/forum/personal-kdbplus"/>
             <outline type="rss" text="QUANTLABS.NET » KDB Tag Feed" title="QUANTLABS.NET » KDB Tag Feed" xmlUrl="http://quantlabs.net/blog/tag/kdb/feed/" htmlUrl="https://quantlabs.net/blog/tag/kdb/"/>
             <outline type="rss" text="Pawan Singh's blog" title="Pawan Singh's blog" xmlUrl="http://singp.wordpress.com/feed/" htmlUrl="https://singp.wordpress.com"/>
+            <outline type="rss" text="q201 News" title="q201 News" xmlUrl="https://groups.io/g/q201/rss" htmlUrl="https://groups.io/g/q201"/>
         </outline>
     </body>
 </opml>
