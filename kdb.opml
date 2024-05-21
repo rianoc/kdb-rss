@@ -56,6 +56,7 @@
             <outline type="rss" text="QUANTLABS.NET » KDB Tag Feed" title="QUANTLABS.NET » KDB Tag Feed" xmlUrl="http://quantlabs.net/blog/tag/kdb/feed/" htmlUrl="https://quantlabs.net/blog/tag/kdb/"/>
             <outline type="rss" text="Pawan Singh's blog" title="Pawan Singh's blog" xmlUrl="http://singp.wordpress.com/feed/" htmlUrl="https://singp.wordpress.com"/>
             <outline type="rss" text="q201 News" title="q201 News" xmlUrl="https://groups.io/g/q201/rss" htmlUrl="https://groups.io/g/q201"/>
+            <outline type="rss" text="KX Learning Hub" title="KX Learning Hub" xmlUrl="https://learninghub.kx.com/forums/feed" htmlUrl="https://learninghub.kx.com/forums"/>
         </outline>
     </body>
 </opml>
