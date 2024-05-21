@@ -15,13 +15,11 @@
             <outline type="rss" text="The Research Kitchen » kdb Category Feed" title="The Research Kitchen » kdb Category Feed" xmlUrl="http://www.theresearchkitchen.com/archives/category/kdb/feed" htmlUrl="https://www.theresearchkitchen.com"/>
             <outline type="rss" text="Blog – Kx" title="Blog – Kx" xmlUrl="https://kx.com/blog/feed/" htmlUrl="https://kx.com"/>
             <outline type="rss" text="kx_community" title="kx_community" xmlUrl="https://www.reddit.com/r/kx_community/.rss" htmlUrl="https://www.reddit.com/r/kx_community/"/>
-            <outline type="rss" text="q blogs" title="q blogs" xmlUrl="http://kxcommunity.com/feed/" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=f8056bc9b49a267fafe24a41394c60e7"/>
             <outline type="rss" text="Newest questions tagged q-lang - Stack Overflow" title="Newest questions tagged q-lang - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=q-lang&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=q-lang&amp;sort=newest"/>
             <outline type="rss" text="reddit-apkjl" title="reddit-apkjl" xmlUrl="http://www.reddit.com/search.xml?q=apljk&amp;sort=new" htmlUrl="http://www.reddit.com/"/>
             <outline type="rss" text="James Little" title="James Little" xmlUrl="http://www.jameslittle.me.uk/feeds/all.atom.xml" htmlUrl="https://www.jameslittle.me.uk/"/>
             <outline type="rss" text="DefconQ Blog" title="DefconQ Blog" xmlUrl="https://defconq.tech/blog/rss.xml" htmlUrl="https://DefconQ.github.io/blog"/>
             <outline type="rss" text="reddit.com: search results" title="reddit.com: search results" xmlUrl="http://www.reddit.com/search.xml?q=kdb%2B&amp;sort=new" htmlUrl="http://www.reddit.com/"/>
-            <outline type="rss" text="All board posts in KX Community" title="All board posts in KX Community" xmlUrl="https://community.kx.com/btwke96422/rss/Community?interaction.style=forum&amp;feeds.replies=true" htmlUrl="https://community.kx.com/"/>
             <outline type="rss" text="Posts of blog" title="Posts of blog" xmlUrl="https://sites.google.com/site/baavector/blog/posts.xml" htmlUrl="https://sites.google.com/feeds/content/site/baavector"/>
             <outline type="rss" text="enlist[q]" title="enlist[q]" xmlUrl="http://www.enlistq.com/feed/" htmlUrl="http://www.enlistq.com/"/>
             <outline type="rss" text="Vimeo / KX’s videos" title="Vimeo / KX’s videos" xmlUrl="https://vimeo.com/kxsys/videos/rss" htmlUrl="https://vimeo.com/kxsys/videos"/>
